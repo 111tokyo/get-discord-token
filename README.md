@@ -1,11 +1,11 @@
-# get-discord-token
+# 📜 get-discord-token
 A simple guid on how to easily retrieve your Discord token using a web browser.
 > [!WARNING]
 > Unauthorized use of a Discord token may violate Discord's Terms of Service and result in account suspension. Use this information responsibly.
 
 ---
 
-## How to Retrieve Your Discord Token?
+## ❓ How to Retrieve Your Discord Token?
 
 ### 1. Open Discord in a Browser
 Log in to your Discord account through a web browser (Google Chrome, Firefox, Edge, etc.).
